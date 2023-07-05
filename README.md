@@ -7,14 +7,16 @@ Utilizing deep learning and CNNs, this project accurately classifies dog breeds 
 ## Prerequisites
 
 - Python - Programming Language
-- [Numpy](https://numpy.org) - Numerical Computing Library for Python
-- [Pandas](https://pandas.pydata.org) - Data Manipulation and Analysis Library for Python
-- [Matplotlib](https://matplotlib.org) - Data Visualization Library for Python
-- [Seaborn](https://seaborn.pydata.org) - Statistical Data Visualization Library for Python
-- [Scikit-Learn](https://scikit-learn.org) - Machine Learning Library for Python
-- [TensorFlow](https://www.tensorflow.org) - Open Source Machine Learning Framework
-- [Keras](https://keras.io) - Deep Learning Library for Python
-- [CV2](https://opencv.org) - Open Source Computer Vision Library for Python
+- **Python Libraries**:
+  - [Numpy](https://numpy.org) - Numerical Computing Library
+  - [Pandas](https://pandas.pydata.org) - Data Manipulation and Analysis Library
+  - [Matplotlib](https://matplotlib.org) - Data Visualization Library
+  - [Seaborn](https://seaborn.pydata.org) - Statistical Data Visualization Library
+  - [Scikit-Learn](https://scikit-learn.org) - Machine Learning Library
+  - [TensorFlow](https://www.tensorflow.org) - Open Source Machine Learning Framework
+  - [Keras](https://keras.io) - Deep Learning Library
+  - [CV2](https://opencv.org) - Open Source Computer Vision Library
+
 
 ## Contributing
 
